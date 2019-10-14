@@ -1,0 +1,482 @@
+body{
+	background-color: rgb(255,248,237);
+}
+input[type='checkbox']{
+    width: 12px;
+    height: 12px;
+    background-color: #fff;
+    -webkit-appearance:checkbox;
+    border: 1px solid #c9c9c9;
+    margin-bottom: 0px;
+    cursor: default;
+   
+}
+.bai{
+width: 33%;
+float: left;
+}
+.content{
+	width: 100%;
+	margin-top: 40%;
+	text-align: center;
+}
+.banner{
+	width: 100%;
+	height: 140px;
+}
+.bannerstyle{
+	width: 100%;
+	height: 100%;
+}
+
+.part{
+	width: 100%;
+	height: 22px;
+	margin-top: 10px;
+	text-align: left;
+	font-color:color: rgb(118,177,233);
+}
+.partp{
+	color: rgb(118,177,233);
+}
+
+.task{
+	
+	width: 100%;
+	height: 44px;
+	margin-top: 10px;
+	text-align: left;
+}
+.taskp{
+	color: rgb(153,153,153);
+}
+.answerp{
+	color: rgb(123,123,123);
+}
+
+.question{
+	width: 100%;
+	height: 22px;
+	margin-top: 10px;
+	text-align: left;
+}
+.answerlist{
+	width: 100%;
+	height: 22px;
+	margin-top: 4px;
+	text-align: left;
+}
+
+.givenclause{
+	margin-left: 0%;
+	width: 100%;
+	height: 44px;
+	margin-top: 10px;
+	text-align: left;
+}
+
+.question2{
+	margin-left: 0%;
+	width: 100%;
+	height: 22px;
+	margin-top: 10px;
+	text-align: left;
+}
+.answerlist2{
+	margin-left: 3%;
+	width: 97%;
+	height: 22px;
+		margin-top: 4px;
+	text-align: left;
+}
+.givenclauselong{
+	margin-left: 0%;
+	width: 100%;
+	height: 66px;
+	margin-top: 10px;
+	text-align: left;
+}
+.question3{
+	margin-left: 0%;
+	width: 100%;
+	height: 44px;
+	margin-top: 10px;
+	text-align: left;
+}
+
+.part2intr{
+	
+	width: 100%;
+	height: 110px;
+	margin-top: 10px;
+	text-align: left;
+}
+
+.givenclause2{
+	margin-left: 0%;
+	width: 100%;
+	height: 66px;
+	margin-top: 10px;
+	text-align: left;
+}
+.question4{
+	margin-left: 0%;
+	width: 100%;
+	height: 66px;
+	margin-top: 10px;
+	text-align: left;
+}
+
+.question5{
+	margin-left: 0%;
+	width: 100%;
+	height: 44px;
+	margin-top: 10px;
+	text-align: left;
+}
+
+.givenclause3{
+	margin-left: 0%;
+	width: 100%;
+	height: 88px;
+	margin-top: 10px;
+	text-align: left;
+}
+
+.task1intro{
+	margin-left: 0%;
+	width: 100%;
+	height: 22px;
+	margin-top: 10px;
+	text-align: left;
+}
+
+
+.passage1{
+	margin-left: 0%;
+	width: 100%;
+	height: 22px;
+	margin-top: 10px;
+	text-align: left;
+}
+
+.passage1conent{
+	margin-left: 0%;
+	width: 100%;
+	height: 430px;
+	text-align: left;
+}
+
+.sumofpassage1{
+	margin-top: 5px;
+	margin-left: 0%;
+	width: 100%;
+	height: 22px;
+	text-align: left;
+}
+
+.summaryconent{
+	margin-left: 0%;
+	width: 100%;
+	height: 242px;
+	text-align: left;
+}
+
+.rect{
+	margin-left: 3%;
+	width: 97%;
+	height: 88px;
+	text-align: left;
+	border: 1px solid #bbbbbb;
+}
+.multichoice{
+	margin-top: 7px;
+	margin-left: 3%;
+	width: 97%;
+	height: 30px;
+	text-align: left;
+}
+.choicenumber{
+	margin-top: 5px;
+	width: 10%;
+	height: 100%;
+	text-align: left;
+	float: left;
+}
+.choicecontent{
+
+	width: 85%;
+	height: 100%;
+	text-align: left;
+	background-color: white;
+	border: 1px solid #7777ff;
+}
+
+.task2intro{
+	margin-left: 0%;
+	width: 100%;
+	height: 22px;
+	margin-top: 10px;
+	text-align: left;
+}
+
+.para1content{
+	margin-left: 0%;
+	width: 100%;
+	height: 110px;
+	text-align: left;
+}
+.para2content{
+	margin-left: 0%;
+	width: 100%;
+	height: 154px;
+	text-align: left;
+}
+.para3content{
+	margin-left: 0%;
+	width: 100%;
+	height: 242px;
+	text-align: left;
+}
+
+.readquestion1{
+	margin-left: 0%;
+	width: 100%;
+	margin-top: 10px;
+	height: 44px;
+	text-align: left;
+}
+
+.answerchoice1{
+	margin-left: 3%;
+	width: 97%;
+	height: 88px;
+	text-align: left;
+}
+.readquestion2{
+	margin-left: 0%;
+	width: 100%;
+	margin-top: 10px;
+	height: 44px;
+	text-align: left;
+}
+.answerchoice2{
+	margin-left: 3%;
+	width: 97%;
+	height: 132px;
+	text-align: left;
+}
+
+.answerchoice88{
+	margin-left: 3%;
+	width: 97%;
+	height: 88px;
+	text-align: left;
+}
+
+.audioarea{
+	margin-top: 10px;
+	margin-left: 1%;
+	width: 98%;
+	height: 70px;
+	text-align: left;
+	background-color: rgb(235,238,247);
+}
+.audiotext{
+	float: left;
+	margin-top: 5px;
+	margin-left: 5%;
+	width: 95%;
+	height: 22px;
+	text-align: left;
+}
+.audio{
+	float: left;
+	margin-top: 5px;
+	
+	width: 100%;
+	height: 32px;
+	text-align: left;
+}
+.audiointro{
+	margin-top: 10px;
+	margin-left: 0%;
+	width: 100%;
+	height: 22px;
+	text-align: left;
+}
+
+.question6{
+	margin-top: 10px;
+	margin-left: 0%;
+	width: 100%;
+	height: 22px;
+	text-align: left;
+}
+.question7{
+	margin-top: 10px;
+	margin-left: 0%;
+	width: 100%;
+	height: 44px;
+	text-align: left;
+}
+.answerchoice3{
+	margin-left: 3%;
+	width: 97%;
+	height: 88px;
+	text-align: left;
+}
+.answerchoice4{
+	margin-left: 3%;
+	width: 97%;
+	height:110px;
+	text-align: left;
+}
+
+.contactintro{
+	margin-top: 25px;
+	width: 100%;
+	height:22px;
+	text-align: left;
+}
+
+.phone{
+	float: left;
+
+	margin-left:3%;
+	margin-top: 5px;
+	width: 90%;
+	height: 42px;	
+	border: 1px solid #aaaaaa;
+	border-radius: 0px;
+}
+
+.phonechina{
+	float: left;
+	margin-left:3%;
+	margin-top: -5px;
+	width: 14%;
+	height:32px;
+}
+
+.fenge{
+	float: left;
+	margin-top: 5px;
+	width: 1px;
+	height:32px;
+	background-color:#aaaaaa;
+}
+input{
+         background:transparent;
+         border:none;
+         outline:medium;
+}
+.phoneinput{
+	float: left;
+	margin-left:5%;
+	width: 70%;
+	height:37px;
+}
+
+.yzm{
+	float: left;
+
+	margin-left:3%;
+	margin-top: 8px;
+	width: 90%;
+	height: 42px;	
+	border: 1px solid #aaaaaa;
+	border-radius: 0px;
+}
+.buttontext{
+	color: white;
+	font-size: 13px;
+}
+.yzminput{
+	
+
+
+	
+	
+	margin-top: 8px;
+	margin-left:3%;
+	float: left;	
+	width: 55%;
+	height:37px;
+	text-indent: 20px;
+	border: 1px solid #aaaaaa;
+	border-radius: 0px;
+}
+button{
+	background-color: rgb(74,144,226);
+}
+.sendbutton{
+	margin-left:2%;
+	margin-top: 8px;
+	float: left;
+	width: 32%;
+	height:42px;
+	border: 1px solid #aaaaaa;
+}
+
+.tijiao{
+	float: left;
+
+	margin-left:3%;
+	margin-top: 8px;
+	margin-bottom: 30px;
+	width: 90%;
+	height: 42px;	
+	border: 1px solid #aaaaaa;
+	border-radius: 0px;
+}
+
+.qinttong{
+	float: left;
+	width: 100%;
+	height: auto;
+}
+
+
+.yanshen{
+	float: left;
+	width: 100%;
+	height: 120px;
+	background-color: rgb(74,155,202);
+}
+.multichoicelw{
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 5%;
+	float: left;
+	width: 50%;
+	height: 30px;
+	background-color: rgb(235,154,35);
+	border: 1px solid rgb(235,154,35);
+	border-radius: 0px;
+}
+.choicecontentlw{
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	background-color: rgb(235,154,35);
+	border: 1px solid rgb(235,154,35);
+	border-radius: 0px;
+	color:white;
+}
+.lingqu{
+	margin-top: 10px;
+	margin-left: 5%;
+	float: left;
+	width: 34%;
+	height: 30px;
+	background-color: rgb(235,154,35);
+	border: 1px solid rgb(235,154,35);
+	border-radius: 0px;
+}
+.lingqutext{
+	margin-top: 4px;
+	height: 22px;
+	color: white;
+	text-align: center;
+}
